@@ -1,7 +1,5 @@
 # README
-Questo repository contiene il codice sorgente per il sito web personale di Simona Sapienza, disponibile al seguente indirizzo: https://simosap44.github.io/.
-
-Il sito web è stato sviluppato utilizzando HTML, CSS e JavaScript e contiene informazioni riguardanti le competenze, i progetti e le esperienze lavorative di Simona Sapuppo.
+Questo repository contiene il codice sorgente per il sito web personale disponibile al seguente indirizzo: https://simosap44.github.io/.
 
 # Struttura del repository
 Il repository è organizzato in diversi branch:
